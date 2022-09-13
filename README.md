@@ -1,4 +1,4 @@
-- Hi, I am Andy Herron.  Welcome to my GitHub page.
+**Hi, I am Andy Herron.  Welcome to my GitHub page.**
 - You can find my profile on LinkedIn at https://www.linkedin.com/in/andrew-herron-8a010a11/
 - My work that is on GitHub is primarily from the Data Analytics Bootcamp that I recently completed.
 - I am looking forward to start a new career in data analytics.
